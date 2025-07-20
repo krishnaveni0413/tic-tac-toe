@@ -1,0 +1,42 @@
+body{
+    background-color: #070707;
+    color: white;
+}
+
+.container{
+    text-align: center;
+
+}
+.title{
+    margin-top: 50px;
+}
+.title span{
+    color: aquamarine;
+}
+.reset{
+    width: 100px;
+   
+    height: 45px;
+    color: aquamarine;
+    border-radius: 30px;
+    background-color: #595e5e;
+    border: none;
+}
+.box{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    width: 100px;
+    /* cursor: pointer; */
+    background-color: #4e4c4c;
+    border: 1px solid rgb(4, 4, 4);
+    border-radius: 5px;
+}
+.boards{
+    display: flex;
+    margin:10px  auto;
+    justify-content: center;
+    align-items: center;
+}
